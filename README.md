@@ -1,5 +1,3 @@
-# GAN-Project    ![Generated_Images](images/Generated_Images.png)
-
 # FashionGAN: A Tutorial on Generative Adversarial Networks (GANs) with Fashion MNIST
 
 ## Introduction
@@ -7,6 +5,9 @@
 Generative Adversarial Networks (GANs) are a type of artificial intelligence model used for unsupervised learning. They were first proposed by Ian Goodfellow and other researchers at the University of Montreal in 2014. GANs consist of two parts, a generator and a discriminator, that are trained simultaneously. The generator's task is to create new data that is similar to the training data, while the discriminator's task is to differentiate between the training data and the data created by the generator. This creates a dynamic where the generator continually improves its ability to generate realistic data and the discriminator continually improves its ability to differentiate between real and generated data.
 
 This tutorial will walk you through the process of training a GAN to generate images from the Fashion MNIST dataset, a dataset of 60,000 28x28 grayscale images of 10 fashion categories.
+
+![image](https://github.com/vivek7208/GAN-Project/assets/65945306/82d41f2e-0a5c-4b0c-908f-1141ae62c2d2)
+
 
 ## Requirements
 
@@ -94,7 +95,12 @@ jupyter notebook FashionGAN-Tutorial.ipynb
 
 After training the model, it generates new fashion images from random noise. The generated images are saved and can be viewed. The quality of the generated images depends on the complexity of the Generator and Discriminator networks, the number of training epochs, and the quality of the training data.
 
-   ![Generated_Images](images/Generated_Images.png)
+![image](https://github.com/vivek7208/GAN-Project/assets/65945306/118f82de-7e86-4a8f-a052-f661390b3a46)
+
+
+![image](https://github.com/vivek7208/GAN-Project/assets/65945306/45feca05-40ae-4005-b2f5-f85608bddcec)
+
+
 
 ## Future Work
 
