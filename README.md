@@ -6,7 +6,7 @@ Generative Adversarial Networks (GANs) are a type of artificial intelligence mod
 
 This tutorial will walk you through the process of training a GAN to generate images from the Fashion MNIST dataset, a dataset of 60,000 28x28 grayscale images of 10 fashion categories.
 
-![image](https://github.com/vivek7208/GAN-Project/assets/65945306/82d41f2e-0a5c-4b0c-908f-1141ae62c2d2)
+![image](https://github.com/vivek7208/FashionGAN/assets/65945306/852e0b73-b406-4972-9684-e88061ac0a68)
 
 
 ## Requirements
@@ -95,10 +95,10 @@ jupyter notebook FashionGAN-Tutorial.ipynb
 
 After training the model, it generates new fashion images from random noise. The generated images are saved and can be viewed. The quality of the generated images depends on the complexity of the Generator and Discriminator networks, the number of training epochs, and the quality of the training data.
 
-![image](https://github.com/vivek7208/GAN-Project/assets/65945306/118f82de-7e86-4a8f-a052-f661390b3a46)
+![image](https://github.com/vivek7208/FashionGAN/assets/65945306/ff139519-43cd-4cb4-a25f-72403b86aec8)
 
 
-![image](https://github.com/vivek7208/GAN-Project/assets/65945306/45feca05-40ae-4005-b2f5-f85608bddcec)
+![image](https://github.com/vivek7208/FashionGAN/assets/65945306/3de6df15-4efb-4496-8fa7-f5ee6f82f1f4)
 
 
 
