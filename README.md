@@ -1,5 +1,11 @@
 # FashionGAN: A Tutorial on Generative Adversarial Networks (GANs) with Fashion MNIST
 
+[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/vivek7208/FashionGAN/blob/master/FashionGAN-Tutorial.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Preview in nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/vivek7208/FashionGAN/blob/master/FashionGAN-Tutorial.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vivek7208/FashionGAN/blob/master/FashionGAN-Tutorial.ipynb)
+
 ## Introduction
 
 Generative Adversarial Networks (GANs) are a type of artificial intelligence model used for unsupervised learning. They were first proposed by Ian Goodfellow and other researchers at the University of Montreal in 2014. GANs consist of two parts, a generator and a discriminator, that are trained simultaneously. The generator's task is to create new data that is similar to the training data, while the discriminator's task is to differentiate between the training data and the data created by the generator. This creates a dynamic where the generator continually improves its ability to generate realistic data and the discriminator continually improves its ability to differentiate between real and generated data.
